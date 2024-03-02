@@ -1,6 +1,7 @@
 # [package] 
 # edition = "2021"
 [workspace]
-members =["src/aoc-core","src/2015/*"]
+members = ["src/aoc-core", "src/2015/*"]
 
 # [dependencies]
+ 
